@@ -1,0 +1,64 @@
+.VirtualizedSelectFocusedOption {
+  background-color: #00002a !important;
+}
+.Select-menu-outer {
+  background: #00001a !important;
+  border: #00000a !important;
+ }
+
+html {
+  overflow: hidden;
+  background: #00001a;
+  border: #00001a;
+ }
+
+body {
+  background: #00001a;
+}
+
+.Select-input>input {
+  color: #1375fd !important;
+}
+
+.Select-placeholder{
+  color: #1375fd !important;
+}
+
+div.Select.has-value.Select–single>.Select-control .Select-value .Select-value-label,
+div.Select.has-value.is-pseudo-focused.Select–single>.Select-control .Select-value .Select-value-label {
+  color: #1375fd;
+}
+
+div.Select–single>.Select-control .Select-value,
+div.Select-placeholder{
+  color: #1375fd;
+}
+
+div.Select-control {
+  color: #1375fd;
+}
+
+a.active.nav-link {
+  background: #007bff !important;
+  color: #f2f2f2 !important;
+  border-color: #9393ff !important;
+}
+.nav-link:hover {
+  background: #00001a !important;
+  color: #007bff !important;
+  border-color: #9393ff !important;
+}
+.nav-tabs {
+border-bottom: 1px solid #9393ff;
+}
+
+::-webkit-scrollbar {
+    background-color: #00001a !important;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #1375fd !important;
+}
+
+.modal-content {
+    background-color: #00001a;
+}
